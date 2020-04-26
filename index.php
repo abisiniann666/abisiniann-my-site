@@ -69,7 +69,7 @@ require_once('functions.php');
     <div class="header">
         <div class="header_container">
             <div>
-                <h1>Graphics</h1>
+                <h1>MY SITE</h1>
             </div>
             <p>グラフィック</p>
         </div>
